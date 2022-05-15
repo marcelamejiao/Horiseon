@@ -46,7 +46,7 @@ a {
     text-decoration: none;
 }
 
-p {
+figcaption, p {
     font-size: 16px;
 }
 

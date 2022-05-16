@@ -61,7 +61,7 @@ main {
     margin-left: 20px;
 }
 
-.horiseo-services {
+.horiseo-service {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -70,11 +70,11 @@ main {
     color: #ffffff;
 }
 
-.horiseo-services img{
+.horiseo-service img{
     max-height: 200px;
 }
 
-.horiseo-services h2 {
+.horiseo-service h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }

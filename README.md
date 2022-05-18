@@ -10,7 +10,7 @@ _**This project is about a Marketing agency called Horiseon. The company require
 * Improving code readability to make it more understandable for future changes by organising sequencial order in CSS, consolidating some classes and adding comments to HTML and CSS code.
 * Reducing the Hero image resolution to speed the website loading resulting in improved search engine ranking.
 
-💡 See live version here: [https://marcelamejiao.github.io/Week-1-Challenge/#search-engine-optimization](https://marcelamejiao.github.io/Week-1-Challenge/#search-engine-optimization)
+💡 See live version here: [https://marcelamejiao.github.io/Week-1-Challenge/](https://marcelamejiao.github.io/Week-1-Challenge/)
 
 ### **Preview**
 

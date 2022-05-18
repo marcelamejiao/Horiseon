@@ -1,14 +1,19 @@
+/* Reset default browser CSS */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Change whole body background color and font color */
 body {
     background-color: #d9dcd6;
     color: #ffffff;
 }
 
+/**
+ * Top navigation styling 
+ **/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -41,11 +46,13 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/* Style all links with a color and make sure they don't underline  */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* Style hero banner */
 .hero {
     height: 800px;
     width: 100%;
@@ -55,12 +62,16 @@ a {
     background-position: center;
 }
 
+/* Place main content on the left side consuming 3/4 of the page width */
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/** 
+ * Style Horiseon services 
+ **/
 .horiseo-service {
     margin-bottom: 20px;
     padding: 50px;
@@ -79,16 +90,19 @@ main {
     font-size: 36px;
 }
 
+/* Makes image to move to the left in services */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Makes image to move to the right in services */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* Style benefits with diverse atributes */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -100,6 +114,9 @@ main {
     background-color: #2589bd;
 }
 
+/**
+ * Style individual benefits
+ **/
 .benefit {
     margin-bottom: 32px;
 }
@@ -115,10 +132,12 @@ main {
     max-width: 150px;
 }
 
+/* Style images within benefits */
 figcaption, p {
     font-size: 16px;
 }
 
+/* Style Horiseon copyright and legal information */
 footer {
     padding: 30px;
     clear: both;
